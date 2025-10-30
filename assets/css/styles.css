@@ -393,7 +393,7 @@ input {
   .home__data-title {
     font-size: var(--biggest-font-size);
     font-weight: var(--font-medium);
-    margin: 200px 0 10px 0;
+    margin: 100px 0 10px 0;
   }
   
   .home__container {
@@ -408,7 +408,7 @@ input {
     font-weight: 400;
   }
   .home__info {
-    bottom: -15rem !important;
+    bottom: -7rem !important;
   }
 }
 
