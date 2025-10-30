@@ -490,6 +490,17 @@ body.dark-theme .top_about .right div{
   background: #03152e;
 }
 
+.top_about .right div:hover{
+  background: #03152e;
+  border: 1px solid #03152e;
+  color: white;
+}
+
+body.dark-theme .top_about .right div:hover{
+  background: #fff;
+  color: #03152e;
+}
+
 .top_about .right div h1{
   font-size: 3.5rem;
   padding: 0;
