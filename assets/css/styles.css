@@ -393,7 +393,7 @@ input {
   .home__data-title {
     font-size: var(--biggest-font-size);
     font-weight: var(--font-medium);
-    margin: 100px 0 10px 0;
+    margin: 0px 0 10px 0;
   }
   
   .home__container {
@@ -407,9 +407,9 @@ input {
     display: block;
     font-weight: 400;
   }
-  .home__info {
+  /* .home__info {
     bottom: -7rem !important;
-  }
+  } */
 }
 
 /*=============== BUTTONS ===============*/
@@ -560,7 +560,7 @@ body.dark-theme .top_about .right div{
 /*=============== DISCOVER ===============*/
 .discover__card {
   position: relative;
-  width: 400px;
+  width: 300px;
   overflow: var(--img-hidden);
 }
 
@@ -768,7 +768,7 @@ body.dark-theme .top_about .right div{
 @media (max-width: 768px) {
   .place__card, .place__img {
     height: 330px;
-    width: 300px !important;
+    width: 250px !important;
   }
   .place__title {
     font-size: 18px;
